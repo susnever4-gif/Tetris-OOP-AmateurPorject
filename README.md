@@ -29,5 +29,6 @@ SAVED FILES
 - `RecentScore` = last game's L
 
 ## NOTES
+- Most music and some assets are borrowed from other sources, credit to their original creator.
 - Game not responsible for broken keyboards or rage quits.
 - Have fun, kid. (or don't, we ain't your dad)
